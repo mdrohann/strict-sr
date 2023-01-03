@@ -1,0 +1,53 @@
+@media screen and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+  .service_con h3 {
+    font-size: 18px;
+  }
+  .service_con p {
+    font-size: 12px;
+  }
+  .port_con_head h2 {
+    font-size: 30px;
+  }
+  .hero_con h1 {
+    font-size: 70px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .navbar {
+    padding: 20px 0px;
+  }
+  .hero_con h1 {
+    font-size: 70px;
+  }
+  .text_con h2 {
+    font-size: 35px;
+  }
+  .text_con p {
+    font-size: 16px;
+  }
+  .service_con h3 {
+    font-size: 22px;
+  }
+  .service_con p {
+    font-size: 15px;
+  }
+  .footer_con_main {
+    flex-wrap: wrap;
+    max-width: 60%;
+    margin: 0 auto;
+  }
+  .footer_con p {
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+}
